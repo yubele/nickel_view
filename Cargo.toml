@@ -1,0 +1,13 @@
+[package]
+name = "nickel_view"
+version = "0.1.0"
+authors = ["yusuke <yusuke@newsdict.jp>"]
+repository = "https://github.com/yubele/nickel_view"
+keywords = ["view", "nickel"]
+license-file = "MIT-LICENSE"
+readme = "README.md"
+description = "very simply render for mustache"
+
+[dependencies]
+nickel = "^0.9.0"
+mustache = "^0.6"
